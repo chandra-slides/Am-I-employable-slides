@@ -1,4 +1,6 @@
 # Am-I-employable-slides
+![](https://img.shields.io/badge/License-wtfpl-%23ff69b4.svg?style=for-the-badge&logo=appveyor)
+
 🚧 [WIP] Slides for my talk on my employable status
 
 ### Topics:
